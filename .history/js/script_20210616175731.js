@@ -1,0 +1,1 @@
+$(".theTarget").ski

@@ -1,0 +1,3 @@
+$(".theTarget").skippr({
+  tran
+})
